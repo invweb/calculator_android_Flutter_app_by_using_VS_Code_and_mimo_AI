@@ -1,30 +1,30 @@
-# Calculator App
+# Calculator app
 
-Flutter-приложение калькулятора для Android в стиле iOS Calculator.
+Flutter is a calculator app for Android or iOS.
 
-## Скриншоты
+## Screenshots
 
-| Главный экран | 1 + 2 = 3 | 9 × 9 = 81 |
+| Main screen | 1 + 2 = 3 | 9 × 9 = 81 |
 |---|---|---|
-| ![Main](screenshots/screenshot.png) | ![Calc](screenshots/screenshot_calc.png) | ![9x9](screenshots/screenshot_9x9.png) |
+| ![Home page](screenshots/screenshot.png) | ![Calc](screenshots/screenshot_calc.png) | ![9x9](screenshots|screenshot_9x9.png) /
 
-## Возможности
+## Features
 
-- Базовые арифметические операции: `+`, `-`, `×`, `÷`
-- Функции: `AC` (сброс), `±` (смена знака), `%` (процент)
-- Тёмная тема в стиле iOS Calculator
-- Валидация деления на ноль
+- Basic arithmetic operations: `+`, `-`, `×`, `÷`
+- Links: `Alternating current` (reset), `±` (signed), `%` (none)
+- Full version of the calculator for iOS
+- Validation of division by zero
 
-## Запуск
+## Launch
 
-```bash
-flutter pub get
+`forget
+about the flutter pub, make
 flutter run
 ```
 
-## Технологии
+## Technology
 
 - Flutter 3.44.6
 - Kotlin 2.2.20
-- Android Gradle Plugin 8.11.1
+- Plugin for Android Gradle 8.11.1
 - Java 11
