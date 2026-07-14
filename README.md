@@ -6,7 +6,7 @@ Flutter is a calculator app for Android or iOS.
 
 | Main screen | 1 + 2 = 3 | 9 × 9 = 81 |
 |---|---|---|
-| ![Home page](screenshots/screenshot.png) | ![Calc](screenshots/screenshot_calc.png) | ![9x9](screenshots|screenshot_9x9.png) /
+| ![Home page](screenshots/screenshot.png) | ![Calc](screenshots/screenshot_calc.png) | ![9x9](screenshots/screenshot_9x9.png) /
 
 ## Features
 
